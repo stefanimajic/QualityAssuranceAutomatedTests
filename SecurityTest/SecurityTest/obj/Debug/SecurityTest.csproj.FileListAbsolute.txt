@@ -1,0 +1,8 @@
+c:\users\smajic\documents\visual studio 2015\Projects\SecurityTest\SecurityTest\bin\Debug\SecurityTest.dll
+c:\users\smajic\documents\visual studio 2015\Projects\SecurityTest\SecurityTest\bin\Debug\SecurityTest.pdb
+c:\users\smajic\documents\visual studio 2015\Projects\SecurityTest\SecurityTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\smajic\documents\visual studio 2015\Projects\SecurityTest\SecurityTest\bin\Debug\OWASPZAPDotNetAPI.dll
+c:\users\smajic\documents\visual studio 2015\Projects\SecurityTest\SecurityTest\obj\Debug\SecurityTest.dll
+c:\users\smajic\documents\visual studio 2015\Projects\SecurityTest\SecurityTest\obj\Debug\SecurityTest.pdb
+C:\Users\smajic\Documents\Visual Studio 2015\Projects\SecurityTest\SecurityTest\obj\Debug\SecurityTest.csprojResolveAssemblyReference.cache
+C:\Users\smajic\Documents\Visual Studio 2015\Projects\SecurityTest\SecurityTest\obj\Debug\SecurityTest.csproj.CoreCompileInputs.cache
